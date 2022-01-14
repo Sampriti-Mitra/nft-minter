@@ -15,3 +15,8 @@ npx hardhat run scripts/deploy.js --network mumbai
 npx hardhat help
 ```
 To view the project, go to https://nft-starter-project.sampriti-mitra.repl.co/
+1. Add the Polygon Mumbai testnet
+2. Get some fake matic on polygon mumbai testnet
+3. Connect your Wallet
+4. View the NFT collection
+5. Mint your NFT now! 
